@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Python, React-Native,Javascript ,HTML, CSS**
 
-- 📫 How to reach me **kishankumarprydan@gmail.com**
+- 📫 How to reach me **kishankumardas.prydan@gmail.com**
 
-- ⚡ Fun fact **I am good at python**
+- ⚡ Fun fact **I am good in React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
